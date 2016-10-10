@@ -1,0 +1,18 @@
+•	Less Spam
+o	 Reduce number of time bot answer “Sorry I am unable to understand the question”.
+o	Replies that are too generic sound 
+•	Be personable: Half of what makes users seek out bots is that, for now, the novelty of the whole thing makes it fun. This is exponentially increased when the bot has something of a personality, so Give your Bot a name, adding characterization to the bot is important.
+•	Be clear about bot purpose, at one instance a bot should be 100% efficient to handle one domain request.
+•	Make small asks to gain buy-in and push users through the flow : 
+o	Don’t think because this is conversational, you can get carried away about how much information to ask for. If I ask for your email, home address, phone number, and favorite color all at once, you’re likely to click away. But, if I ask you give me your email, and then ask for your favorite color later on, you’re a lot more likely to tell me. This is the best practice with almost any sign-up flow.
+•	Reuse information we already have from customer i.e. Don’t ask users to enter their entire sales pipeline when you can just integrate with Salesforce or link to catalog we have.
+•	Minimize the amount of input required, be more option able to user.
+•	Don’t Pester users: If the user is not responding to the conversation, bot should notify , give a time window and exit out of session, capturing the conversation, and emailing it to user if required.
+•	Fail gracefully and proactively: If the bot doesn’t understand the user three times in a row, for instance, it should automatically give them the help command’s output.
+•	Integrating feedback option is always a plus one feature.
+•	Make the option for input clear:
+o	Every time a user has to stop and consider what you might have meant, you increase opportunities for failure. Unless you’re using some advanced NLP, try not to ask a user an open-ended “Is this correct?” Instead try something like “Is this correct? Type ‘Yes’ or ‘No’.” 
+•	Avoid Conversational dead ends:
+o	After the hi’s and hellos your chatbot should be specific and ask the user about what he wants. No! Not exactly like this, you can make the questions more attractive like this “What hair problem are you having?” (If you have a bot that provides hair solutions) this will make the user talk to your bot and actually use it
+o	Avoid to make chat bot close ended, i.e. interacting with it shouldn’t feel like filling out a questionnaire?
+
