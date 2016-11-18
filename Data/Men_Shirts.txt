@@ -22,4 +22,22 @@ what are the different sizes that are available in men shirts:shirts are availab
 what are the categories in men shirts:polo, henley, v-neck, striped
 do you have men shirts:yes we have. we have polo, henley, v-neck, striped t-shirts
 what are the different sizes that are available in men t-shirts:shirts are available in small, medium, large and extra large sizes
-
+Do you have cotton shirts:Yes we do have, any specific style you are looking for
+Do you have polyester shirts:Yes we do have, any specific style you are looking for
+I am looking for an Armani shirt:Sure let me pull up Aramani catalog
+What styles do you have in Armani shirt:We have  Dress shirt and poet shirt in Armani brand
+What brands do you have in shirts:We have Ralph Lauren , Hugo Boss , Levi's , Burberry , Tommy Hillfiger , Versace , Dolce and Gabbana
+I am looking for an Ralph Lauren  shirt:Sure let me pull up Ralph Lauren  catalog
+What styles do you have in Ralph Lauren  shirt:We have  Dress shirt and poet shirt in Ralph Lauren  brand
+I am looking for an Hugo Boss shirt:Sure let me pull up Hugo Boss catalog
+What styles do you have in Hugo Boss shirt:We have  Dress shirt in Hugo Boss brand
+I am looking for an Levi's shirt:Sure let me pull up Levi's catalog
+What styles do you have in Levi's shirt:We have  sweat shirt and poet shirt in Levi's brand
+I am looking for an Burberry shirt:Sure let me pull up Burberry catalog
+What styles do you have in Burberry shirt:We have  Dress shirt and poet shirt in Burberry brand
+I am looking for an Tommy Hillfiger shirt:Sure let me pull up Tommy Hillfiger catalog
+What styles do you have in Tommy Hillfiger shirt:We have  Dress shirt and sweat shirt in Tommy Hillfiger brand
+I am looking for an Versace shirt:Sure let me pull up Versace catalog
+What styles do you have in Versace shirt:We have  Dress shirt and poet shirt in Versace brand
+I am looking for an Dolce and Gabbana shirt:Sure let me pull up Dolce and Gabbana catalog
+What styles do you have in Dolce and Gabbana shirt:We have  Dress shirt and poet shirt in Dolce and Gabbana brand
