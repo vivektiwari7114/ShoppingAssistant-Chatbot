@@ -13,7 +13,11 @@ tell me more about the plain shirts:plain shirts consist of only one color with 
 what does your colored shirts look like:our colored shirts consist of  multiple  color with various design patterns
 how are those colored shirts:in our stock colored shirts consist of  multiple  color with various design patterns
 tell me more about the colored shirts:colored shirts consist of  multiple  color with various design patterns
+what does your cheques shirts look like:our cheques shirts consist of horizontal and vertical lines pattern
+how are those cheques shirts:in our stock cheques shirts consist of horizontal and vertical lines pattern
 tell me more about the cheques shirts:cheques shirts consist of horizontal and vertical lines pattern
+I am not sure if you have clothes in my size:Please enter your size
+I am xxxl , do you have shirts in my size:we sure do have please continue your shopping
 what are the different sizes that are available in men shirts:shirts are available in small, medium, large and extra large sizes
 what are the categories in men shirts:polo, henley, v-neck, striped
 do you have men shirts:yes we have. we have polo, henley, v-neck, striped t-shirts
