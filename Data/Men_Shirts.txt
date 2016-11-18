@@ -1,7 +1,17 @@
-What type of t-shirts you have?:we have turtle neck shirts, polo neck, stripped neck etc.
-do you have t-shirts ?:we have turtle neck shirts, polo neck, stripped neck etc.
-What type of shirts you have?:we have plain shirts, cheques, colored, etc.
+I am looking for t-shirts:Are you looking for any specific kind of t-shirts
+I am looking for shirts:Are you looking for any specific kind of shirts
+Can you show me some t-shirts:We have a lot of options available for you to choose among, anything specific you are looking for in t-shrits
+Can you show me some shirts:We have a lot of options available for you to choose among, anything specific you are looking for in shrits
+What type of t-shirts do you have?:we have turtle neck shirts , polo neck , stripped neck , Long-sleeved , Ringer T-shirt , Halfshirt  etc.
+do you have t-shirts ?:we have a lot of differnt kind available, anything in specific you are looking among  turtle neck shirts , polo neck , stripped neck we have etc.
+What type of shirts you have?:We do have a huge variety ranging from Camp shirt , Dress shirt , poet shirt , polo shirt , sweat shirt
+Can you tell me what patterns do you got:we have plain shirts , cheques , colored , etc any specific pattern you want to filter out on
+what patterns do you have in shirts:we have plain shirts , cheques , colored , etc.
+what does your plain shirts look like:our plain shirts consist of only one color with minimum designs
+how are those plain shirts:in our stock plain shirts consist of only one color with minimum designs
 tell me more about the plain shirts:plain shirts consist of only one color with minimum designs
+what does your colored shirts look like:our colored shirts consist of  multiple  color with various design patterns
+how are those colored shirts:in our stock colored shirts consist of  multiple  color with various design patterns
 tell me more about the colored shirts:colored shirts consist of  multiple  color with various design patterns
 tell me more about the cheques shirts:cheques shirts consist of horizontal and vertical lines pattern
 what are the different sizes that are available in men shirts:shirts are available in small, medium, large and extra large sizes
