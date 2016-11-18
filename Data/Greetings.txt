@@ -1,0 +1,16 @@
+hi:hello
+hello:hey
+hey:hi
+how are you:i am fine
+how are you :i am fine, hows you? 
+how are you doing:i am doing great. what about you?
+How are you feeling:i am feeling good. how about you?
+wassp:good and how’s you?
+what’s up :great and you?
+
+
+Can you please help me:yes sure. Please tell me what you want 
+Can you please tell me more about products:yes sure. Please tell me what products are you interested in
+what products you have:we have a lot. Can you please tell what are you interested in
+any new products :yes recently we added new products in men and women category
+

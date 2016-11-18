@@ -1,0 +1,11 @@
+“What type of t-shirts you have?”:”we have turtle neck shirts, polo neck, stripped neck, etc.”
+“do you have t-shirts ?”:”we have turtle neck shirts, polo neck, stripped neck, etc.”
+“What type of shirts you have?”:”we have plain shirts, cheques, colored, etc.”
+“tell me more about the plain shirts”:”plain shirts consist of only one color with minimum designs”
+“tell me more about the colored shirts”:”colored shirts consist of  multiple  color with various design patterns”
+“tell me more about the cheques shirts”:”cheques shirts consist of horizontal and vertical lines pattern “
+“what are the different sizes that are available in men shirts”: “shirts are available in small, medium, large and extra large sizes”
+“what are the categories in men shirts”:”polo, henley, v-neck, striped”
+“do you have men shirts”:” yes we have. we have polo, henley, v-neck, striped t-shirts”
+“what are the different sizes that are available in men t-shirts”: “shirts are available in small, medium, large and extra large sizes”
+

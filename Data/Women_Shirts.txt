@@ -1,0 +1,6 @@
+“hi”:”hello”
+“hello”:”hey”
+“hey”:”hii”
+“how are you ”:”I am fine”
+“how are you ”:”I am fine, hows you? ”
+“How are you doing”:”I am doing great. What about you?”
