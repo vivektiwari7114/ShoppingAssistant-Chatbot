@@ -1,6 +1,43 @@
-“hi”:”hello”
-“hello”:”hey”
-“hey”:”hii”
-“how are you ”:”I am fine”
-“how are you ”:”I am fine, hows you? ”
-“How are you doing”:”I am doing great. What about you?”
+I am looking for t-shirts:Are you looking for any specific kind of t-shirts
+I am looking for shirts:Are you looking for any specific kind of shirts
+Can you show me some t-shirts:We have a lot of options available for you to choose among, anything specific you are looking for in t-shrits
+Can you show me some shirts:We have a lot of options available for you to choose among, anything specific you are looking for in shrits
+What type of t-shirts do you have?:we have turtle neck shirts , polo neck , stripped neck , Long-sleeved , Ringer T-shirt , Halfshirt  etc.
+do you have t-shirts ?:we have a lot of differnt kind available, anything in specific you are looking among  turtle neck shirts , polo neck , stripped neck we have etc.
+What type of shirts you have?:We do have a huge variety ranging from Camp shirt , Dress shirt , poet shirt , polo shirt , sweat shirt
+Can you tell me what patterns do you got:we have plain shirts , cheques , colored , etc any specific pattern you want to filter out on
+what patterns do you have in shirts:we have plain shirts , cheques , colored , etc.
+what does your plain shirts look like:our plain shirts consist of only one color with minimum designs
+how are those plain shirts:in our stock plain shirts consist of only one color with minimum designs
+tell me more about the plain shirts:plain shirts consist of only one color with minimum designs
+what does your colored shirts look like:our colored shirts consist of  multiple  color with various design patterns
+how are those colored shirts:in our stock colored shirts consist of  multiple  color with various design patterns
+tell me more about the colored shirts:colored shirts consist of  multiple  color with various design patterns
+what does your cheques shirts look like:our cheques shirts consist of horizontal and vertical lines pattern
+how are those cheques shirts:in our stock cheques shirts consist of horizontal and vertical lines pattern
+tell me more about the cheques shirts:cheques shirts consist of horizontal and vertical lines pattern
+I am not sure if you have clothes in my size:Please enter your size
+I am xxxl , do you have shirts in my size:we sure do have please continue your shopping
+what are the different sizes that are available in men shirts:shirts are available in small, medium, large and extra large sizes
+what are the categories in men shirts:polo, henley, v-neck, striped
+do you have men shirts:yes we have. we have polo, henley, v-neck, striped t-shirts
+what are the different sizes that are available in men t-shirts:shirts are available in small, medium, large and extra large sizes
+Do you have cotton shirts:Yes we do have, any specific style you are looking for
+Do you have polyester shirts:Yes we do have, any specific style you are looking for
+I am looking for an Armani shirt:Sure let me pull up Aramani catalog
+What styles do you have in Armani shirt:We have  Dress shirt and poet shirt in Armani brand
+What brands do you have in shirts:We have Ralph Lauren , Hugo Boss , Levi's , Burberry , Tommy Hillfiger , Versace , Dolce and Gabbana
+I am looking for an Ralph Lauren  shirt:Sure let me pull up Ralph Lauren  catalog
+What styles do you have in Ralph Lauren  shirt:We have  Dress shirt and poet shirt in Ralph Lauren  brand
+I am looking for an Hugo Boss shirt:Sure let me pull up Hugo Boss catalog
+What styles do you have in Hugo Boss shirt:We have  Dress shirt in Hugo Boss brand
+I am looking for an Levi's shirt:Sure let me pull up Levi's catalog
+What styles do you have in Levi's shirt:We have  sweat shirt and poet shirt in Levi's brand
+I am looking for an Burberry shirt:Sure let me pull up Burberry catalog
+What styles do you have in Burberry shirt:We have  Dress shirt and poet shirt in Burberry brand
+I am looking for an Tommy Hillfiger shirt:Sure let me pull up Tommy Hillfiger catalog
+What styles do you have in Tommy Hillfiger shirt:We have  Dress shirt and sweat shirt in Tommy Hillfiger brand
+I am looking for an Versace shirt:Sure let me pull up Versace catalog
+What styles do you have in Versace shirt:We have  Dress shirt and poet shirt in Versace brand
+I am looking for an Dolce and Gabbana shirt:Sure let me pull up Dolce and Gabbana catalog
+What styles do you have in Dolce and Gabbana shirt:We have  Dress shirt and poet shirt in Dolce and Gabbana brand
