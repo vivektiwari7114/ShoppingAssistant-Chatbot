@@ -7,9 +7,44 @@ do you have jeans in small size: yes we do have jeans in small size
 do you have jeans in medium size:yes we do have jeans in medium size
 do you have jeans in large size:yes we do have jeans in large size
 do you have jeans in extra-large size:yes we do have jeans in extra-large size
-what styles do you have in jeans:We have Petite , Real Straight , perfect boot , best grilfriend , flare , Acid Wash , Wide Leg , Boyfriend , Ripped, Denim Leggings , Skinny and super skinny Jeans
+what styles do you have in jeans:We have Petite , Real Straight , perfect boot , best grilfriend , flare , Acid Wash , Wide Leg , Boyfriend , Ripped, Denim Leggings , Skinny and super skinny Jeans. What are you looking for among them
 what brands do you have in jeans:we offer following brands True Religion , Giorgio Armani , United Color of Benetton , Calvin Klein , Lee Cooper , Lee , Pepe Jeans London , Wrangler , Diesel , Levi Strauss
+Do you have skinny or super skinny jeans in Calvin:Yes we do have both styles in Clavin Klein
+What do you have in Calvin:We have  Real Straight , perfect boot , best grilfriend , flare , Acid Wash , Wide Leg , Boyfriend , Ripped, Denim Leggings in Calvin Klein catalog.
+Show me something in Calvin:We have  Real Straight , perfect boot , best grilfriend , flare , Acid Wash , Wide Leg , Boyfriend , Ripped, Denim Leggings in Calvin Klein catalog.
+Can i get something in Calvin:We have  Real Straight , perfect boot , best grilfriend , flare , Acid Wash , Wide Leg , Boyfriend , Ripped, Denim Leggings in Calvin Klein catalog.
+What do you have in True Religion:We have Boyfriend , Ripped, Denim Leggings , Skinny and super skinny Jeans in True Religion catalog.
+Show me something in True Religion:We have Boyfriend , Ripped, Denim Leggings , Skinny and super skinny Jeans in True Religion catalog.
+Can i get something in True Religion:We have Boyfriend , Ripped, Denim Leggings , Skinny and super skinny Jeans in True Religion catalog.
+What do you have in Giorgio Armani
+Show me something in Giorgio Armani
+Can i get something in Giorgio Armani
 
+What do you have in Levi Strauss
+Show me something in Levi Strauss
+Can i get something in Levi Strauss
 
+What do you have in Diesel
+Show me something in Diesel
+Can i get something in Diesel
 
+What do you have in Wrangler
+Show me something in Wrangler
+Can i get something in Wrangler
+
+What do you have in Pepe Jeans London
+Show me something in Pepe Jeans London
+Can i get something in Pepe Jeans London
+
+What do you have in Lee Cooper
+Show me something in Lee Cooper
+Can i get something in Lee Cooper
+
+What do you have in United Color of Bene tton
+Show me something in United Color of Benetton
+Can i get something in United Color of Benetton
+
+What do you have in Lee
+Show me something in Lee
+Can i get something in Lee
 
