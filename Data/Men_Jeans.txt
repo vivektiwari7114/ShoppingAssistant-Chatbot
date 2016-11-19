@@ -12,3 +12,4 @@ show me new stock:we do have new stock in all brand do you have any specific pic
 do you have any discount on jeans:we currently offer 20% off on Wrangler men jeans
 any discount i can use:we currently offer 20% off on Wrangler men jeans
 do you offer any discount:You can get 20% off on Wrangler men jeans 
+what brands do you have in jeans:we offer following brands True Religion , Giorgio Armani , United Color of Benetton , Calvin Klein , Lee Cooper , Lee , Pepe Jeans London , Wrangler , Diesel , Levi Strauss
