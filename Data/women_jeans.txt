@@ -7,6 +7,11 @@ do you have jeans in small size: yes we do have jeans in small size
 do you have jeans in medium size:yes we do have jeans in medium size
 do you have jeans in large size:yes we do have jeans in large size
 do you have jeans in extra-large size:yes we do have jeans in extra-large size
+do you have a new stock:yes we do have in all brand do you have any specific pick
+show me new stock:we do have new stock in all brand do you have any specific pick
+do you have any discount on jeans:we currently offer 20% off on Wrangler women jeans
+any discount i can use:we currently offer 20% off on Wrangler women jeans
+do you offer any discount:You can get 20% off on Wrangler women jeans 
 what styles do you have in jeans:We have Petite , Real Straight , perfect boot , best grilfriend , flare , Acid Wash , Wide Leg , Boyfriend , Ripped, Denim Leggings , Skinny and super skinny Jeans. What are you looking for among them
 what brands do you have in jeans:we offer following brands True Religion , Giorgio Armani , United Color of Benetton , Calvin Klein , Lee Cooper , Lee , Pepe Jeans London , Wrangler , Diesel , Levi Strauss
 Do you have skinny or super skinny jeans in Calvin:Yes we do have both styles in Clavin Klein
