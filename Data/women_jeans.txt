@@ -1,12 +1,15 @@
 I am looking for a pair of jeans:Are you looking for any specific kind 
-can you show me some jeans:
-What do you have in jeans:
-can i see some jeans:
-what kind of jeans do you have:
-do you have jeans in small size:
-do you have jeans in medium size:
-do you have jeans in large size:
-do you have jeans in extra-large size:
+can you show me some jeans:sure definitely , are you looking for anything specific
+What do you have in jeans:we have a lot of options available for you , are you looking for anything specific
+can i see some jeans: sure please let me know if you are looking for anything specific
+what kind of jeans do you have:we have a wide variety in brands and style , anything specific you are looking for
+do you have jeans in small size: yes we do have jeans in small size
+do you have jeans in medium size:yes we do have jeans in medium size
+do you have jeans in large size:yes we do have jeans in large size
+do you have jeans in extra-large size:yes we do have jeans in extra-large size
+what styles do you have in jeans:
+what brands do you have in jeans:we offer following brands True Religion , Giorgio Armani , United Color of Benetton , Calvin Klein , Lee Cooper , Lee , Pepe Jeans London , Wrangler , Diesel , Levi Strauss
+
 
 
 
