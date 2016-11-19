@@ -1,1 +1,14 @@
-
+I am looking for a pair of jeans:Are you looking for any specific kind 
+can you show me some jeans:sure definitely , are you looking for anything specific
+What do you have in jeans:we have a lot of options available for you , are you looking for anything specific
+can i see some jeans: sure please let me know if you are looking for anything specific
+what kind of jeans do you have:we have a wide variety in brands and style , anything specific you are looking for
+do you have jeans in small size: yes we do have jeans in small size
+do you have jeans in medium size:yes we do have jeans in medium size
+do you have jeans in large size:yes we do have jeans in large size
+do you have jeans in extra-large size:yes we do have jeans in extra-large size
+do you have a new stock:yes we do have in all brand do you have any specific pick
+show me new stock:we do have new stock in all brand do you have any specific pick
+do you have any discount on jeans:we currently offer 20% off on Wrangler women jeans
+any discount i can use:we currently offer 20% off on Wrangler women jeans
+do you offer any discount:You can get 20% off on Wrangler women jeans 
