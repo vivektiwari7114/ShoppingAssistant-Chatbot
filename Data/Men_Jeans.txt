@@ -40,18 +40,18 @@ What do you have in Pepe Jeans London:We have Tapered , Athletic , Straight , Bo
 Show me something in Pepe Jeans London:We have Tapered , Athletic , Straight , Bootcut , Relaxed and Big Tall styles in Pepe Jeans London.
 Can i get something in Pepe Jeans London:We have Tapered , Athletic , Straight , Bootcut , Relaxed and Big Tall styles in Pepe Jeans London.
 
-What do you have in Wrangler:We have Tapered , Athletic , Straight , Bootcut , Relaxed and Big Tall
-Show me something in Wrangler
-Can i get something in Wrangler
+What do you have in Wrangler:We have Athletic , Straight , Bootcut and Relaxed styles in Wrangler.
+Show me something in Wrangler:We have Athletic , Straight , Bootcut and Relaxed styles in Wrangler.
+Can i get something in Wrangler:We have Athletic , Straight , Bootcut and Relaxed styles in Wrangler.
 
-What do you have in Lee:We have Tapered , Athletic , Straight , Bootcut , Relaxed and Big Tall
-Show me something in Lee
-Can i get something in Lee
+What do you have in Lee:We have Tapered , Athletic , Straight , Relaxed and Big Tall styles in Lee.
+Show me something in Lee:We have Tapered , Athletic , Straight , Relaxed and Big Tall styles in Lee.
+Can i get something in Lee:We have Tapered , Athletic , Straight , Relaxed and Big Tall styles in Lee.
 
-What do you have in Diesel:We have Tapered , Athletic , Straight , Bootcut , Relaxed and Big Tall
-Show me something in Diesel
-Can i get something in Diesel
+What do you have in Diesel:We have Tapered , Athletic , Straight , Bootcut , Relaxed and Big Tall styles in Diesel.
+Show me something in Diesel:We have Tapered , Athletic , Straight , Bootcut , Relaxed and Big Tall styles in Diesel.
+Can i get something in Diesel:We have Tapered , Athletic , Straight , Bootcut , Relaxed and Big Tall styles in Diesel.
 
-What do you have in Levi Strauss:We have Tapered , Athletic , Straight , Bootcut , Relaxed and Big Tall
-Show me something in Levi Strauss
-Can i get something in Levi Strauss
+What do you have in Levi Strauss:We have only Bootcut , Relaxed and Big Tall styles in Levi Strauss.
+Show me something in Levi Strauss:We have only Bootcut , Relaxed and Big Tall styles in Levi Strauss.
+Can i get something in Levi Strauss:We have only Bootcut , Relaxed and Big Tall styles in Levi Strauss.
