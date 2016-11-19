@@ -3,6 +3,10 @@ I am looking for shirts:Are you looking for any specific kind of shirts
 Can you show me some t-shirts:We have a lot of options available for you to choose among, anything specific you are looking for in t-shrits
 Can you show me some shirts:We have a lot of options available for you to choose among, anything specific you are looking for in shrits
 What type of t-shirts do you have?:we have turtle neck shirts , polo neck , stripped neck , Long-sleeved , Ringer T-shirt , Halfshirt  etc.
+do you have any discount on shirts:we currently offer 20% off on  Ralph Lauren shirts currently.
+do you have any discount on t-shirts:we offer 40% off on hugo boss t-shirts currently.
+any discount i can use:we currently offer 20% off on all Lee products
+do you offer any discount:You can get 20% off on all Lee products
 do you have t-shirts ?:we have a lot of differnt kind available, anything in specific you are looking among  turtle neck shirts , polo neck , stripped neck we have etc.
 What type of shirts you have?:We do have a huge variety ranging from Camp shirt , Dress shirt , poet shirt , polo shirt , sweat shirt
 Can you tell me what patterns do you got:we have plain shirts , cheques , colored , etc any specific pattern you want to filter out on
