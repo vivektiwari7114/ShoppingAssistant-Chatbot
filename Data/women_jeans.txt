@@ -1,1 +1,12 @@
+I am looking for a pair of jeans:Are you looking for any specific kind 
+can you show me some jeans:
+What do you have in jeans:
+can i see some jeans:
+what kind of jeans do you have:
+do you have jeans in small size:
+do you have jeans in medium size:
+do you have jeans in large size:
+do you have jeans in extra-large size:
+
+
 
