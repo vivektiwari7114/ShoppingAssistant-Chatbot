@@ -45,3 +45,6 @@ i am looking for an Versace shirt:Sure let me pull up Versace catalog
 what styles do you have in Versace shirt:We have  Dress shirt and poet shirt in Versace brand
 i am looking for an Dolce and Gabbana shirt:Sure let me pull up Dolce and Gabbana catalog
 what styles do you have in Dolce and Gabbana shirt:We have  Dress shirt and poet shirt in Dolce and Gabbana brand
+do you have a return policy:yes , we have 10 days return policy
+can i return the shoes if i want:yes you can , we have 10 days return policy
+what is your return policy:we have 10 days return policy
