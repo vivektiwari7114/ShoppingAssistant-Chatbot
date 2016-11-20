@@ -15,3 +15,6 @@ can i see catrgories in men shoes:we have Chukkas , Loafers , Work boots , Dress
 show me all catrgories in men shoes:we have Chukkas , Loafers , Work boots , Dress boots , Duck boots , Gym sneakers , Casual street sneakers , Flip-flops , Slippers , Boatshoes , Black leather dress shoes.
 what all styles you have:we have Chukkas , Loafers , Work boots , Dress boots , Duck boots , Gym sneakers , Casual street sneakers , Flip-flops , Slippers , Boatshoes , Black leather dress shoes.
 show me all styles you have in men shoes:we have Chukkas , Loafers , Work boots , Dress boots , Duck boots , Gym sneakers , Casual street sneakers , Flip-flops , Slippers , Boatshoes , Black leather dress shoes.
+do you have a return policy:yes , we have 10 days return policy
+can i return the shoes if i want:yes you can , we have 10 days return policy
+what is your return policy:we have 10 days return policy
