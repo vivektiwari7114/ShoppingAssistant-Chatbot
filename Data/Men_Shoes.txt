@@ -18,3 +18,4 @@ show me all styles you have in men shoes:we have Chukkas , Loafers , Work boots 
 do you have a return policy:yes , we have 10 days return policy
 can i return the shoes if i want:yes you can , we have 10 days return policy
 what is your return policy:we have 10 days return policy
+i am not sure if you have shoes in my size:Please enter your size
