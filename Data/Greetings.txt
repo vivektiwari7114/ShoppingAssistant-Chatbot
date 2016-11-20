@@ -1,6 +1,5 @@
 hi:hello
 hey:hi
-<<<<<<< HEAD
 greetings :hello
 hello:greetings
 hi how is it going:good how about you
@@ -22,26 +21,3 @@ Can you please tell me more about your products:yes sure please tell me what kin
 what products do you have:we have a lot can you please tell what are you interested in
 any new products :yes recently we added new products in men and women category
 what new products do you have:we have a lot of options available for you are you looking for any specific product category
-=======
-Greetings!:Hello
-Hello:Greetings!
-Hi , How is it going?:Good how about you
-Hi , nice to meet you:Thank you. You too.
-It is a pleasure to meet you:Thank you. You too
-Top of the morning to you!:Thank you kindly and the rest of the day to you.
-how are you:i am fine
-hi Who are you?:i am your friendly chatbot
-how are you:i am fine, hows you? 
-Nice to meet you:Thank you and the feelings are mutual
-How do you do?:I'm doing well. How are you?
-how are you man:i am fine,how about you
-how are you doing:i am doing great. what about you?
-How are you feeling:i am feeling good. how about you?
-wassp:i am good and how are you?
-what’s up:The sky's up but I'm fine thanks. What about you?
-Can you please help me:yes sure. Please tell me what are you looking for 
-Can you please tell me more about your products:yes sure Please tell me what kind of products are you interested in
-what products do you have:we have a lot. Can you please tell what are you interested in
-any new products:yes recently we added new products in men and women category
-What new products do you have:We have a lot of options available for you are you looking for any specific product category
->>>>>>> origin/master

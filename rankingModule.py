@@ -192,23 +192,13 @@ def word_order_similarity(sentence_1, sentence_2):
 ######################### overall similarity ##########################
 
 def similarity(sentence_1, sentence_2, info_content_norm):
-    return DELTA * semantic_similarity(sentence_1, sentence_2, info_content_norm) + \
-           (1.0 - DELTA) * word_order_similarity(sentence_1, sentence_2)
+    val1 = DELTA * semantic_similarity(sentence_1, sentence_2, info_content_norm)
+    val2 =  (1.0 - DELTA) * word_order_similarity(sentence_1, sentence_2)
+    result = val1 + val2
+    return result
 
 
 ######################### main / test ##########################
-'''
-# the results of the algorithm are largely dependent on the results of
-# the word similarities, so we should test this first...
-word_pairs = [
-    ["happy", "good"]
-]
-
-#Check The similarity between two words
-for word_pair in word_pairs:
-    print (  word_similarity(word_pair[0], word_pair[1])  )
-
-'''
 
 with open('candidate.txt', 'r') as content_file:
     content = content_file.read()
@@ -225,28 +215,26 @@ for item in candidateSet:
     temp.append(query)
     temp.append(item)
     queryingMatrix.append(deepcopy(temp))
-
-
-
-print(queryingMatrix)
-print (type(queryingMatrix))
-
+'''
 sentence_pairs = [
     ["Can you please tell me more about products", "what products do you have"],
     ["what products you have","what products do you have"],
     ["any new  products","what products do you have"]
 ]
+'''
+maxValue = 0.0
+storeResponse = ""
+for sent_pair in queryingMatrix:
+     currValue =  similarity(sent_pair[0], sent_pair[1], True)
+
+     if currValue > maxValue:
+         maxValue = currValue
+         storeResponse = sent_pair[1]
 
 
-max= 0
-response =[]
-for sent_pair in sentence_pairs:
-     print (  similarity(sent_pair[0], sent_pair[1], True)  )
-     #print(curr)
-     #if curr > max:
-        #max = curr
-        #response.append(sent_pair[1])
-#print (response[0])
-
+#print(storeResponse)
+classifierFile = "response.txt"
+outputHandle = open(classifierFile, "w", encoding="latin1")
+outputHandle.write(str(storeResponse))
 
 
