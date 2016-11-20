@@ -8,3 +8,5 @@ what kind of shoes do you have:we have a huge stock in men shoes, anything speci
 do you have any discount on shoes:we currently offer 30% off on all Gucci products currently.
 any discount i can use:we currently offer 20% off on all Lee products
 do you offer any discount:You can get 20% off on all Lee products
+what brands do you have in shoes:we offer following brands The North Face , Timberland , Tommy Hilfiger , Reebok , Lacoste , GUESS , Hugo Boss , Clarks , Ben Sherman , Kenneth Cole New York , Puma , Nike , Rockport , Vans.
+what brands do you have in stock:we offer following brands The North Face , Timberland , Tommy Hilfiger , Reebok , Lacoste , GUESS , Hugo Boss , Clarks , Ben Sherman , Kenneth Cole New York , Puma , Nike , Rockport , Vans.
