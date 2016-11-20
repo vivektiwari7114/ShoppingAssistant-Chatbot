@@ -3,13 +3,13 @@ hello:hey
 hey:hi
 Greetings!:Hello
 Hello:Greetings!
-Hi, How is it going?:Good how about you
-Hi, nice to meet you:Thank you. You too.
+Hi , How is it going?:Good how about you
+Hi , nice to meet you:Thank you. You too.
 It is a pleasure to meet you:Thank you. You too
 Top of the morning to you!:Thank you kindly and the rest of the day to you.
 how are you:i am fine
 hi Who are you?:i am your friendly chatbot
-how are you :i am fine, hows you? 
+how are you:i am fine, hows you? 
 Nice to meet you:Thank you and the feelings are mutual
 How do you do?:I'm doing well. How are you?
 how are you man:i am fine,how about you
