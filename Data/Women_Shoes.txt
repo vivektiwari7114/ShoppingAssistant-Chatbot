@@ -1,7 +1,7 @@
-i am looking for some shoes:
-can i see some shoes:
-can you show me some shoes:
-what type of shoes do you have:
-i am looking for a pair of shoes:
-what do you have in shoes:
-what kind of shoes do you have:
+i am looking for some shoes:sure , are you looking for any specific kind.
+can i see some shoes:sure anything specific you have in mind
+can you show me some shoes:sure can you tell me what kind you are looking for 
+what type of shoes do you have:we have a huge stock in women shoes, anything specific yoy are looking for 
+i am looking for a pair of shoes:sure can you tell me what kind you are looking for
+what do you have in shoes:we have a huge stock in women shoes, anything specific yoy are looking for 
+what kind of shoes do you have:we have a huge stock in women shoes, anything specific yoy are looking for 
