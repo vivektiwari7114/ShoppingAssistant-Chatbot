@@ -26,25 +26,40 @@ def readFile(fileName, tag):
         train.append((Counter(currentSent),tag));
     fileContents.close();
 
+#Train data to categorize the input string
 
-readFile('men_shirts.txt', 'men_shirts'); # 'r', encoding="latin1");
-readFile('greetings.txt', 'greetings');
-readFile('bye.txt','bye');
+readFile('data/Greetings.txt', 'Greetings.txt');
+readFile('data/Men_Shirts.txt', 'Men_Shirts.txt'); # 'r', encoding="latin1");
+readFile('data/Women_Shirts.txt', 'Women_Shirts.txt');
+readFile('data/Men_Jeans.txt','Men_Jeans.txt');
+readFile('data/Women_Jeans.txt', 'Women_Jeans.txt'); # 'r', encoding="latin1");
+readFile('data/Bye.txt','Bye.txt');
 
 classifierNaive=nltk.classify.NaiveBayesClassifier.train(train);
 
-fileContents=open('test.txt','r',encoding="latin1");
+fileContents=open('query.txt','r',encoding="latin1");
 test=[];
+queryData =[]
 for lines in fileContents:
-    word=lines.split(":");
-    currentSent=word[0];
-    currentSent=word_tokenize(currentSent);
+    #word=lines.split(" ");
+    #currentSent=word[0];
+    queryData.append(lines.strip() )
+    currentSent=word_tokenize(lines);
     test.append(Counter(currentSent));
 fileContents.close();
 
 #classifier=nltk.classify.NaiveBayesClassifier.train(train);
 sorted(classifierNaive.labels());
-print (classifierNaive.labels());
-xx=classifierNaive.classify_many(test);
+searchFile=classifierNaive.classify_many(test);
 # read the file and add split on the : and store each lhs as param to dictionary q
-print (xx);
+#Name of the output file that consist of the name of the file where to search
+classifierFile = "classifier.txt"
+outputHandle = open(classifierFile, "w", encoding="latin1")
+for input in queryData:
+    outputHandle.write(input)
+    outputHandle.write('\n')
+for item in searchFile:
+    outputHandle.write(item)
+    outputHandle.write('\n')
+
+
