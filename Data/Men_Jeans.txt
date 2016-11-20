@@ -1,4 +1,4 @@
-I am looking for a pair of jeans:Are you looking for any specific kind 
+i am looking for a pair of jeans:Are you looking for any specific kind 
 can you show me some jeans:sure definitely , are you looking for anything specific
 what do you have in jeans:we have a lot of options available for you , are you looking for anything specific
 can i see some jeans: sure please let me know if you are looking for anything specific
@@ -34,7 +34,7 @@ can i get something in Lee Cooper:We have Tapered and Big Tall styles only in Le
 what do you have in Pepe Jeans London:We have Tapered , Athletic , Straight , Bootcut , Relaxed and Big Tall styles in Pepe Jeans London.
 show me something in Pepe Jeans London:We have Tapered , Athletic , Straight , Bootcut , Relaxed and Big Tall styles in Pepe Jeans London.
 can i get something in Pepe Jeans London:We have Tapered , Athletic , Straight , Bootcut , Relaxed and Big Tall styles in Pepe Jeans London.
-What do you have in Wrangler:We have Athletic , Straight , Bootcut and Relaxed styles in Wrangler.
+what do you have in Wrangler:We have Athletic , Straight , Bootcut and Relaxed styles in Wrangler.
 show me something in Wrangler:We have Athletic , Straight , Bootcut and Relaxed styles in Wrangler.
 can i get something in Wrangler:We have Athletic , Straight , Bootcut and Relaxed styles in Wrangler.
 what do you have in Lee:We have Tapered , Athletic , Straight , Relaxed and Big Tall styles in Lee.
