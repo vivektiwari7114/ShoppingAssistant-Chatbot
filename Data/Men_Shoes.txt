@@ -19,3 +19,13 @@ do you have a return policy:yes , we have 10 days return policy
 can i return the shoes if i want:yes you can , we have 10 days return policy
 what is your return policy:we have 10 days return policy
 i am not sure if you have shoes in my size:Please enter your size
+do you have gym shoes in nike:yes we sure do have
+do you have gym shoes:yes we sure do have
+do you have sneakers:yes we sure do have
+do you have any dress shoes:yes we sure do have
+do you have dress shoes in Calvin:yes we sure do have
+do you have boots in Vans:i am afraid we are out of stock on boots right now , do you have anything else in mind
+can i see some boots in Vans:i am afraid we are out of stock on boots right now , do you have anything else in mind
+do you have flip flops:yes we sure do have
+do you have flip flops in adidas:yes we sure do have
+do you have any discount available on all brands right now:we currently offer discount on few limited brands
