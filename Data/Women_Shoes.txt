@@ -8,9 +8,9 @@ what kind of shoes do you have:we have a huge stock in women shoes, anything spe
 do you have any discount on shoes:we currently offer 30% off on all chanel products currently.
 any discount i can use:we currently offer 20% off on all Gucci products
 do you offer any discount:You can get 20% off on all Gucci products
-what brands do you have in shoes:
-what brands do you have in stock:
-can you show me brands you have:
+what brands do you have in shoes:we have adidas , Nike , Calvin Klein , Carlos by Carlos Santana , Daya by Zendaya , ALDO , Clarks , Converse , Giani Bernini , GUESS , kate spade new york , Ivanka Trump , Michael Kors , Timberland , XOXO , 143 Girl.
+what brands do you have in stock:we have adidas , Nike , Calvin Klein , Carlos by Carlos Santana , Daya by Zendaya , ALDO , Clarks , Converse , Giani Bernini , GUESS , kate spade new york , Ivanka Trump , Michael Kors , Timberland , XOXO , 143 Girl.
+can you show me brands you have:we have adidas , Nike , Calvin Klein , Carlos by Carlos Santana , Daya by Zendaya , ALDO , Clarks , Converse , Giani Bernini , GUESS , kate spade new york , Ivanka Trump , Michael Kors , Timberland , XOXO , 143 Girl.
 can i see catrgories in women shoes:we have Classic Black Pumps , Neutral Pumps , Menswears Inspired Flats , High Heels Sandals , D'orsay Flats , Dressy Slip on Sneakers , Summery Espadrills , Sleek Rainboots , Wild Pair , Gym sneakers , Casual street sneakers , Flip-flops , Slippers.
 show me all catrgories in women shoes:we have Classic Black Pumps , Neutral Pumps , Menswears Inspired Flats , High Heels Sandals , D'orsay Flats , Dressy Slip on Sneakers , Summery Espadrills , Sleek Rainboots , Wild Pair , Gym sneakers , Casual street sneakers , Flip-flops , Slippers.
 what all styles you have:we have Classic Black Pumps , Neutral Pumps , Menswears Inspired Flats , High Heels Sandals , D'orsay Flats , Dressy Slip on Sneakers , Summery Espadrills , Sleek Rainboots , Wild Pair , Gym sneakers , Casual street sneakers , Flip-flops , Slippers.
