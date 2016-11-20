@@ -17,7 +17,7 @@ how are you feeling:i am feeling good how about you
 wassp:i am good and how are you
 what’s up :The sky's up but I'm fine thanks what about you
 can you please help me:yes sure please tell me what are you looking for
-Can you please tell me more about your products:yes sure please tell me what kind of products are you interested in
+can you please tell me more about your products:yes sure please tell me what kind of products are you interested in
 what products do you have:we have a lot can you please tell what are you interested in
 any new products :yes recently we added new products in men and women category
 what new products do you have:we have a lot of options available for you are you looking for any specific product category
