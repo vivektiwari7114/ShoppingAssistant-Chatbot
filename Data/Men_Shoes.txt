@@ -4,4 +4,7 @@ can you show me some shoes:sure can you tell me what kind you are looking for
 what type of shoes do you have:we have a huge stock in men shoes, anything specific yoy are looking for 
 i am looking for a pair of shoes:sure can you tell me what kind you are looking for
 what do you have in shoes:we have a huge stock in men shoes, anything specific yoy are looking for 
-what kind of shoes do you have:we have a huge stock in men shoes, anything specific yoy are looking for 
+what kind of shoes do you have:we have a huge stock in men shoes, anything specific yoy are looking for
+do you have any discount on shoes:we currently offer 30% off on all Gucci products currently.
+any discount i can use:we currently offer 20% off on all Lee products
+do you offer any discount:You can get 20% off on all Lee products
