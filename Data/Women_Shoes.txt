@@ -11,7 +11,7 @@ do you offer any discount:You can get 20% off on all Gucci products
 what brands do you have in shoes:
 what brands do you have in stock:
 can you show me brands you have:
-can i see catrgories in women shoes:
-show me all catrgories in women shoes:
-what all styles you have:
-show me all styles you have in women shoes:
+can i see catrgories in women shoes:we have Classic Black Pumps , Neutral Pumps , Menswears Inspired Flats , High Heels Sandals , D'orsay Flats , Dressy Slip on Sneakers , Summery Espadrills , Sleek Rainboots , Wild Pair , Gym sneakers , Casual street sneakers , Flip-flops , Slippers.
+show me all catrgories in women shoes:we have Classic Black Pumps , Neutral Pumps , Menswears Inspired Flats , High Heels Sandals , D'orsay Flats , Dressy Slip on Sneakers , Summery Espadrills , Sleek Rainboots , Wild Pair , Gym sneakers , Casual street sneakers , Flip-flops , Slippers.
+what all styles you have:we have Classic Black Pumps , Neutral Pumps , Menswears Inspired Flats , High Heels Sandals , D'orsay Flats , Dressy Slip on Sneakers , Summery Espadrills , Sleek Rainboots , Wild Pair , Gym sneakers , Casual street sneakers , Flip-flops , Slippers.
+show me all styles you have in women shoes:we have Classic Black Pumps , Neutral Pumps , Menswears Inspired Flats , High Heels Sandals , D'orsay Flats , Dressy Slip on Sneakers , Summery Espadrills , Sleek Rainboots , Wild Pair , Gym sneakers , Casual street sneakers , Flip-flops , Slippers.
