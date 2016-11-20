@@ -10,3 +10,8 @@ any discount i can use:we currently offer 20% off on all Lee products
 do you offer any discount:You can get 20% off on all Lee products
 what brands do you have in shoes:we offer following brands The North Face , Timberland , Tommy Hilfiger , Reebok , Lacoste , GUESS , Hugo Boss , Clarks , Ben Sherman , Kenneth Cole New York , Puma , Nike , Rockport , Vans.
 what brands do you have in stock:we offer following brands The North Face , Timberland , Tommy Hilfiger , Reebok , Lacoste , GUESS , Hugo Boss , Clarks , Ben Sherman , Kenneth Cole New York , Puma , Nike , Rockport , Vans.
+can you show me brands you have:we offer following brands The North Face , Timberland , Tommy Hilfiger , Reebok , Lacoste , GUESS , Hugo Boss , Clarks , Ben Sherman , Kenneth Cole New York , Puma , Nike , Rockport , Vans.
+can i see catrgories in men shoes:we have Chukkas , Loafers , Work boots , Dress boots , Duck boots , Gym sneakers , Casual street sneakers , Flip-flops , Slippers , Boatshoes , Black leather dress shoes.
+show me all catrgories in men shoes:we have Chukkas , Loafers , Work boots , Dress boots , Duck boots , Gym sneakers , Casual street sneakers , Flip-flops , Slippers , Boatshoes , Black leather dress shoes.
+what all styles you have:we have Chukkas , Loafers , Work boots , Dress boots , Duck boots , Gym sneakers , Casual street sneakers , Flip-flops , Slippers , Boatshoes , Black leather dress shoes.
+show me all styles you have in men shoes:we have Chukkas , Loafers , Work boots , Dress boots , Duck boots , Gym sneakers , Casual street sneakers , Flip-flops , Slippers , Boatshoes , Black leather dress shoes.
