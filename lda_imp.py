@@ -3,60 +3,36 @@ import scipy as sp
 from scipy.special import gammaln
 
 def sample_index(p):
-    """
-    Sample from the Multinomial distribution and return the sample index.
-    """
     return np.random.multinomial(1,p).argmax()
 
 def word_indices(vec):
-    """
-    Turn a document vector of size vocab_size to a sequence
-    of word indices. The word indices are between 0 and
-    vocab_size-1. The sequence length is equal to the document length.
-    """
     for idx in vec.nonzero()[0]:
         for i in xrange(int(vec[idx])):
             yield idx
 
 def log_multi_beta(alpha, K=None):
-    """
-    Logarithm of the multinomial beta function.
-    """
     if K is None:
-        # alpha is assumed to be a vector
         return np.sum(gammaln(alpha)) - gammaln(np.sum(alpha))
     else:
-        # alpha is assumed to be a scalar
         return K * gammaln(alpha) - gammaln(K*alpha)
 
 class LdaSampler(object):
 
     def __init__(self, n_topics, alpha=0.1, beta=0.1):
-        """
-        n_topics: desired number of topics
-        alpha: a scalar (FIXME: accept vector of size n_topics)
-        beta: a scalar (FIME: accept vector of size vocab_size)
-        """
         self.n_topics = n_topics
         self.alpha = alpha
         self.beta = beta
 
     def _initialize(self, matrix):
         n_docs, vocab_size = matrix.shape
-
-        # number of times document m and topic z co-occur
         self.nmz = np.zeros((n_docs, self.n_topics))
-        # number of times topic z and word w co-occur
         self.nzw = np.zeros((self.n_topics, vocab_size))
         self.nm = np.zeros(n_docs)
         self.nz = np.zeros(self.n_topics)
         self.topics = {}
 
         for m in xrange(n_docs):
-            # i is a number between 0 and doc_length-1
-            # w is a number between 0 and vocab_size-1
             for i, w in enumerate(word_indices(matrix[m, :])):
-                # choose an arbitrary topic as first topic for word i
                 z = np.random.randint(self.n_topics)
                 self.nmz[m,z] += 1
                 self.nm[m] += 1
@@ -74,7 +50,6 @@ class LdaSampler(object):
         right = (self.nmz[m,:] + self.alpha) / \
                 (self.nm[m] + self.alpha * self.n_topics)
         p_z = left * right
-        # normalize to obtain probabilities
         p_z /= np.sum(p_z)
         return p_z
 
@@ -129,8 +104,6 @@ class LdaSampler(object):
                     self.nzw[z,w] += 1
                     self.nz[z] += 1
                     self.topics[(m,i)] = z
-
-            # FIXME: burn-in and lag!
             yield self.phi()
 
 if __name__ == "__main__":
@@ -164,7 +137,6 @@ if __name__ == "__main__":
         """
         height, width = doc.shape
         zoom = np.ones((width*zoom, width*zoom))
-        # imsave scales pixels between 0 and 255 automatically
         sp.misc.imsave(filename, np.kron(doc, zoom))
 
     def gen_word_distribution(n_topics, document_length):
@@ -181,20 +153,11 @@ if __name__ == "__main__":
         for k in range(width):
             m[k+width,:] = horizontal_topic(width, k, document_length)
 
-        m /= m.sum(axis=1)[:, np.newaxis] # turn counts into probabilities
+        m /= m.sum(axis=1)[:, np.newaxis]
 
         return m
 
     def gen_document(word_dist, n_topics, vocab_size, length=DOCUMENT_LENGTH, alpha=0.1):
-        """
-        Generate a document:
-            1) Sample topic proportions from the Dirichlet distribution.
-            2) Sample a topic index from the Multinomial with the topic
-               proportions from 1).
-            3) Sample a word from the Multinomial corresponding to the topic
-               index from 2).
-            4) Go to 2) if need another word.
-        """
         theta = np.random.mtrand.dirichlet([alpha] * n_topics)
         v = np.zeros(vocab_size)
         for n in range(length):
@@ -204,9 +167,6 @@ if __name__ == "__main__":
         return v
 
     def gen_documents(word_dist, n_topics, vocab_size, n=500):
-        """
-        Generate a document-term matrix.
-        """
         m = np.zeros((n, vocab_size))
         for i in xrange(n):
             m[i, :] = gen_document(word_dist, n_topics, vocab_size)
