@@ -7,7 +7,6 @@ import gensim
 tokenizer = RegexpTokenizer(r'\w+')
 en_stop = get_stop_words('en')
 p_stemmer = PorterStemmer()
-    
 
 doc_a = "Brocolli is good to eat. My brother likes to eat good brocolli, but not my mother."
 doc_b = "My mother spends a lot of time driving my brother around to baseball practice."
