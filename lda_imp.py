@@ -154,7 +154,6 @@ if __name__ == "__main__":
             m[k+width,:] = horizontal_topic(width, k, document_length)
 
         m /= m.sum(axis=1)[:, np.newaxis]
-
         return m
 
     def gen_document(word_dist, n_topics, vocab_size, length=DOCUMENT_LENGTH, alpha=0.1):
